@@ -1,0 +1,4 @@
+C:\Users\Ledshot\source\repos\QueryIt\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\Ledshot\source\repos\QueryIt\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+C:\Users\Ledshot\source\repos\QueryIt\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\Ledshot\source\repos\QueryIt\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
